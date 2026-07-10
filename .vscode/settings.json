@@ -1,0 +1,16 @@
+{
+  "snyk.advanced.autoSelectOrganization": true,
+  "cSpell.words": [
+    "ASGI",
+    "autoflush",
+    "devtrack",
+    "fastapi",
+    "Harshini",
+    "mysqlconnector",
+    "numpy",
+    "pymysql",
+    "sessionmaker",
+    "sqlalchemy",
+    "uvicorn"
+  ]
+}

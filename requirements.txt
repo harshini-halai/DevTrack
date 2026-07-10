@@ -1,0 +1,12 @@
+# Project dependencies for DevTrack
+# Core framework and DB
+fastapi
+sqlalchemy
+pymysql
+
+# ASGI server for running the FastAPI app
+uvicorn
+
+# Optional: pin versions after verifying compatibility, e.g.
+# fastapi==0.95.0
+# sqlalchemy==1.4.XX
